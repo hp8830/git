@@ -1,3 +1,6 @@
 {
-    "python.pythonPath": "C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python38\\python.exe"
+    "python.pythonPath": "C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
+    "python.formatting.provider": "black",
+    "python.formatting.yapfPath": "black",
+    "python.formatting.autopep8Path": "black"
 }
